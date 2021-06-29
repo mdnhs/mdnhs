@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mdnhs
+- 👀 I’m interested in technology.
+- 🌱 I’m currently learning full stack web development.
+- 💞️ I’m looking to collaborate on tech lovers.
+- 📫 How to reach me fb.com/srb47
