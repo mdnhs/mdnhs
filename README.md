@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Nazmul Hasan Sourab</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdnhs&label=Profile%20views&color=388E3C&style=flat" alt="mdnhs" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdnhs&label=Profile%20views&color=76FF03&style=flat" alt="mdnhs" /> </p>
 
 - 🌱 I’m currently learning **react, node js, mongodb, express js**
 
