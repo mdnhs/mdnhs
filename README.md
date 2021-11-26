@@ -1,6 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/MadihaJarrin)
 
-<h1>Hello, I'm Shakib!</h1>
+<h1>Hello, I'm Md. Nazmul Hasan Sourab!</h1>
 
 <br/>
 <p style="width: 100%, margin: auto, text-align: center">
@@ -48,16 +48,6 @@
 <img src="https://img.shields.io/badge/netlify%20-%23430098.svg?&style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
 
-<!--familiar-->
-<h3>Familiar With</h3>
-<p>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-</p>
 <br />
 <br />
 
