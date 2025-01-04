@@ -7,31 +7,38 @@ A passionate Frontend Developer with 2.5+ years of experience in building scalab
 ## 🔧 Skills
 
 ### Languages
-- JavaScript (ES6+), TypeScript, C, C++, Java (basic), Bash scripting (basic)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+</p>
 
 ### Frameworks
-- React.js, Next.js, React Native, Expo, Vue.js (basic)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js" />
+</p>
 
 ### Styling Tools
-- Tailwind CSS, Bootstrap, Shadcn UI, Material UI, Styled-components, SCSS/SASS
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
+</p>
 
 ### State Management
-- Redux Toolkit, Context API, Zustand
+<p>
+  <img src="https://redux.js.org/img/redux.svg" width="40" height="40" alt="Redux Toolkit" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="Context API" />
+</p>
 
 ### API Integration
-- REST APIs, GraphQL (basic), Axios, Fetch API
-
-### Version Control & Collaboration
-- Git, GitHub, Bitbucket, GitLab
-
-### Development Tools
-- Chrome DevTools, ESLint, Prettier, Postman, Vite, Husky
-
-### Design Tools
-- Figma, Adobe XD, Sketch, Adobe Illustrator, Adobe Photoshop
-
-### Basic Backend Knowledge
-- Node.js, Express.js, MongoDB, MySQL, Firebase
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40" alt="GraphQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="REST APIs" />
+</p>
 
 ---
 
