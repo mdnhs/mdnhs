@@ -26,7 +26,12 @@ A passionate Frontend Developer with 2.5+ years of experience in building scalab
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" height="40" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
+  <img src="https://via.placeholder.com/40x40.png?text=S" width="40" height="40" alt="Shadcn UI" />
+  <img src="https://styled-components.com/logo.png" width="40" height="40" alt="Styled-components" />
+  <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" width="40" height="40" alt="SCSS/SASS" />
+  <img src="https://cdn.jsdelivr.net/npm/@mui/material-ui-icons/icons/material-ui.svg" width="40" height="40" alt="Material UI" />
 </p>
+
 
 
 ### State Management
