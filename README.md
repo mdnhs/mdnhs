@@ -3,13 +3,32 @@
 A passionate Frontend Developer with 2.5+ years of experience in building scalable web applications. Proficient in React.js, Next.js, TypeScript, and other cutting-edge frontend technologies.
 
 ## 🔧 Skills
-- JavaScript (ES6+)
-- TypeScript
-- React.js
-- Next.js
-- Tailwind CSS
-- Redux Toolkit
-- REST APIs
+### Languages
+- JavaScript (ES6+), TypeScript, C, C++, Java (basic), Bash scripting (basic)
+
+### Frameworks
+- React.js, Next.js, React Native, Expo, Vue.js (basic)
+
+### Styling Tools
+- Tailwind CSS, Bootstrap, Shadcn UI, Material UI, Styled-components, SCSS/SASS
+
+### State Management
+- Redux Toolkit, Context API, Zustand
+
+### API Integration
+- REST APIs, GraphQL (basic), Axios, Fetch API
+
+### Version Control & Collaboration
+- Git, GitHub, Bitbucket, GitLab
+
+### Development Tools
+- Chrome DevTools, ESLint, Prettier, Postman, Vite, Husky
+
+### Design Tools
+- Figma, Adobe XD, Sketch, Adobe Illustrator, Adobe Photoshop
+
+### Basic Backend Knowledge
+- Node.js, Express.js, MongoDB, MySQL, Firebase
 
 ## 📂 Notable Projects
 - [US-Bangla Airlines Website](https://usbair.com)
