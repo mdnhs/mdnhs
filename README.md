@@ -26,9 +26,9 @@ A passionate Frontend Developer with 2.5+ years of experience in building scalab
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" height="40" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
-  <img src="https://via.placeholder.com/40x40.png?text=S" width="40" height="40" alt="Shadcn UI" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwvmAXpAiFGq-81j2FHRyaOTOf_VbZ6GIAFQ&s" width="40" height="40" alt="Shadcn UI" />
   <img src="https://styled-components.com/logo.png" width="40" height="40" alt="Styled-components" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg" width="40" height="40" alt="SCSS/SASS" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png" width="40" height="40" alt="SCSS/SASS" />
   <img src="https://static-00.iconduck.com/assets.00/material-ui-icon-512x406-fhnu85xg.png" width="40" height="40" alt="Material UI" />
 </p>
 
