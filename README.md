@@ -40,12 +40,6 @@ A passionate Frontend Developer with 2.5+ years of experience in building scalab
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="Context API" />
 </p>
 
-### API Integration
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40" alt="GraphQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="REST APIs" />
-</p>
-
 ---
 
 ## 📂 Notable Projects
