@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nazmul Hasan Sourab
 
-A passionate Frontend Developer with 2.5+ years of experience in building scalable web applications. Proficient in React.js, Next.js, TypeScript, and other cutting-edge frontend technologies.
+A passionate Frontend Developer with 2.5+ years of experience in building scalable web applications. Proficient in React.js, Next.js, TypeScript, and other cutting-edge frontend technologies 🚀
 
 ---
 
