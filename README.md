@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/mdnhs"><img src="https://api.daily.dev/devcards/v2/vh7ZGi1xlp8hjlsqJdNXe.png?r=5im" width="356" alt="Md Nazmul Hasan Sourab's Dev Card"/></a>
+
 # 👋 Hi, I'm Nazmul Hasan Sourab
 
 A passionate Frontend Developer with 2.5+ years of experience in building scalable web applications. Proficient in React.js, Next.js, TypeScript, and other cutting-edge frontend technologies 🚀
