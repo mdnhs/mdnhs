@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/mdnhs"><img src="https://api.daily.dev/devcards/v1/vh7ZGi1xlp8hjlsqJdNXe.png?type=wide&r=8vs" width="652" alt="Nazmul H. Sourab's Dev Card"/></a>
+<a href="https://app.daily.dev/mdnhs"><img src="https://api.daily.dev/devcards/v2/vh7ZGi1xlp8hjlsqJdNXe.png?type=wide&r=8vs" width="652" alt="Nazmul H. Sourab's Dev Card"/></a>
 
 
 
