@@ -1,5 +1,5 @@
 <a href="https://app.daily.dev/mdnhs"><img src="https://api.daily.dev/devcards/v2/vh7ZGi1xlp8hjlsqJdNXe.png?type=wide&r=8vs" width="652" alt="Nazmul H. Sourab's Dev Card"/></a>
-<a href="https://app.daily.dev/mdnhs"><img src="./devcard.png" width="652" alt="Nazmul H. Sourab's Dev Card"/></a>
+<a href="https://app.daily.dev/mdnhs"><img src="https://api.daily.dev/devcards/d5f53eed8c8f4e43a6f600ac6cc4339b.png?r=ifu" width="400" alt="Md Nazmul Hasan Sourab's Dev Card"/></a>
 
 
 
