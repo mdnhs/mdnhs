@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&lines=Frontend+Engineer+%40+TechnoNext+Software+Ltd.;3.5%2B+years+shipping+production+web+apps; Building+AI-driven+UIs+with+Claude%2C+OpenAI%2C+Gemini+%26+MCP;Design+Systems+%E2%80%A2+Performance+%E2%80%A2+Accessibility+%E2%80%A2+CI%2FCD;Currently+leveling+up+with+Go+for+full-stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&lines=Frontend+Engineer+%40+TechnoNext+Software+Ltd.;3.5%2B+years+shipping+production+web+apps;Building+AI-driven+UIs+with+Claude%2C+OpenAI%2C+Gemini+%26+MCP;Design+Systems+%E2%80%A2+Performance+%E2%80%A2+Accessibility+%E2%80%A2+CI%2FCD;Currently+leveling+up+with+Go+for+full-stack" />
 </p>
 
 <p align="center">
