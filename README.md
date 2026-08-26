@@ -1,5 +1,5 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e7490,100:22d3ee&height=200&section=header&text=Md.%20Nazmul%20Hasan%20Sourab&fontSize=42&fontColor=e2f7fb&fontAlignY=34&desc=Frontend%20Engineer%20%C2%B7%20AI-Driven%20UI%20Builder&descSize=16&descAlignY=54&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e3a5f,50:0e7490,75:0891b2,100:22d3ee&height=220&section=header&text=Md.%20Nazmul%20Hasan%20Sourab&fontSize=42&fontColor=e2f7fb&fontAlignY=32&desc=Software%20Engineer%20%C2%B7%20AI-Driven%20UI%20Builder&descSize=16&descAlignY=52&animation=twinkling" />
 
 <p align="center">
   <a href="https://nazmulhsourab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&height=45&lines=Software+Engineer+%40+iBox+Lab+Ltd.;3.8%2B+years+shipping+production+web+apps;AI-driven+UIs+with+Claude%2C+Codex%2C+Gemini+%26+MCP;Design+Systems+%E2%80%A2+Performance+%E2%80%A2+A11y+%E2%80%A2+CI%2FCD;Leveling+up+with+Go+for+full-stack" alt="What I do" /></a>
@@ -181,4 +181,4 @@ fundamentals. Pairing frontend craft with Go to ship solo.
   <a href="tel:+8801776569369"><img src="https://img.shields.io/badge/WhatsApp-0f172a?style=for-the-badge&logo=whatsapp&logoColor=22d3ee" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0e7490,100:0f172a&height=120&section=footer&text=Pair%20frontend%20craft%20with%20Go%20to%20ship%20end-to-end&fontSize=15&fontColor=e2f7fb&fontAlignY=72" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,25:0891b2,50:0e7490,75:1e3a5f,100:0f172a&height=120&section=footer&text=Pair%20frontend%20craft%20with%20Go%20to%20ship%20end-to-end&fontSize=15&fontColor=e2f7fb&fontAlignY=72&animation=twinkling" />
