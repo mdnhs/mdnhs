@@ -55,8 +55,6 @@ const nazmul = {
   <img src="https://img.shields.io/badge/Maintainability-+20%25-22d3ee?style=for-the-badge&labelColor=0f172a" />
 </p>
 
-<img width="100%" src="https://raw.githubusercontent.com/mdnhs/mdnhs/main/assets/divider.svg" onerror="this.style.display='none'" />
-
 ---
 
 <!-- ═══════════════ STACK ═══════════════ -->
