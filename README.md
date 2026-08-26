@@ -177,11 +177,6 @@ fundamentals. Pairing frontend craft with Go to ship solo.
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mdnhs&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8&ring_color=22d3ee" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnhs&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=22d3ee&text_color=94a3b8" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=mdnhs&hide_border=true&background=00000000&stroke=22d3ee&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideNums=94a3b8&sideLabels=94a3b8&dates=64748b" />
 </p>
 
@@ -191,10 +186,6 @@ fundamentals. Pairing frontend craft with Go to ship solo.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdnhs/mdnhs/output/snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/mdnhs/mdnhs/output/snake.svg" />
 </picture>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdnhs&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-</p>
 
 ---
 
