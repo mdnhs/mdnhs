@@ -25,5 +25,3 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_details: bytes-size
           plugin_lines: yes
-          plugin_habits: yes
-          plugin_habits_charts_type: graph
