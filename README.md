@@ -16,10 +16,6 @@
 <br />
 
 <!-- ═══════════════ ABOUT ═══════════════ -->
-<table>
-<tr>
-<td width="55%" valign="top">
-
 ```ts
 const nazmul = {
   role:       "Software Engineer",
@@ -33,9 +29,6 @@ const nazmul = {
 } as const;
 ```
 
-</td>
-<td width="45%" valign="top">
-
 **What I'm up to**
 
 `▸` Own frontend for **B2C & B2B** platforms — perf, WCAG, real-time data
@@ -43,10 +36,6 @@ const nazmul = {
 `▸` Maintain a shared **component library** across product teams
 `▸` Daily driver: **Claude Code** + **Copilot**
 `▸` Learning **Go** — APIs, concurrency, cloud-native
-
-</td>
-</tr>
-</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Page_load-−30%25-22d3ee?style=for-the-badge&labelColor=0f172a" />
@@ -123,18 +112,11 @@ const nazmul = {
 <!-- ═══════════════ PROJECTS ═══════════════ -->
 ## Selected Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### ✈️ [US-Bangla Airlines](https://usbair.com)
 `Next.js` `Tailwind CSS`
 
 Accessible, high-performance airline booking site.
 **+25%** user engagement, lower bounce rate.
-
-</td>
-<td width="50%" valign="top">
 
 ### 🌍 [FirstTrip OTA](https://firsttrip.com)
 `Next.js` `Zustand` `Tailwind CSS`
@@ -142,29 +124,17 @@ Accessible, high-performance airline booking site.
 Full flight/hotel OTA with a [B2B partner portal](https://partner.firsttrip.com).
 **−15%** API latency · auth, RBAC, real-time bookings.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🎨 [NextPixel Image Editor](https://nextpixel.ai)
 `Next.js` `Konva` `shadcn/ui`
 
 Browser image editor — crop, resize, filters, layers.
 Reusable plugin for Foodi CMS & CartUp Seller Point.
 
-</td>
-<td width="50%" valign="top">
-
 ### 🧪 In the workshop
 `Go`
 
 Backend side projects — APIs, concurrency, cloud-native
 fundamentals. Pairing frontend craft with Go to ship solo.
-
-</td>
-</tr>
-</table>
 
 ---
 
