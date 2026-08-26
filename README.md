@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e7490,100:22d3ee&height=200&section=header&text=Md.%20Nazmul%20Hasan%20Sourab&fontSize=42&fontColor=e2f7fb&fontAlignY=34&desc=Frontend%20Engineer%20%C2%B7%20AI-Driven%20UI%20Builder&descSize=16&descAlignY=54&animation=fadeIn" />
 
 <p align="center">
-  <a href="https://nazmulhsourab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&height=45&lines=Frontend+Engineer+%40+TechnoNext+Software+Ltd.;3.5%2B+years+shipping+production+web+apps;AI-driven+UIs+with+Claude%2C+Codex%2C+Gemini+%26+MCP;Design+Systems+%E2%80%A2+Performance+%E2%80%A2+A11y+%E2%80%A2+CI%2FCD;Leveling+up+with+Go+for+full-stack" alt="What I do" /></a>
+  <a href="https://nazmulhsourab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&height=45&lines=Software+Engineer+%40+iBox+Lab+Ltd.;3.8%2B+years+shipping+production+web+apps;AI-driven+UIs+with+Claude%2C+Codex%2C+Gemini+%26+MCP;Design+Systems+%E2%80%A2+Performance+%E2%80%A2+A11y+%E2%80%A2+CI%2FCD;Leveling+up+with+Go+for+full-stack" alt="What I do" /></a>
 </p>
 
 <p align="center">
@@ -22,10 +22,10 @@
 
 ```ts
 const nazmul = {
-  role:       "Software Engineer (Frontend)",
-  company:    "TechnoNext Software Ltd.",
+  role:       "Software Engineer",
+  company:    "iBox Lab Ltd.",
   location:   "Dhaka, Bangladesh 🇧🇩",
-  experience: "3.5+ years",
+  experience: "3.8+ years",
   focus:      ["React", "Next.js", "TypeScript"],
   ai:         ["Claude", "Codex", "Gemini", "MCP"],
   learning:   "Go → full-stack",
@@ -91,18 +91,26 @@ const nazmul = {
 ## Experience
 
 <details open>
+<summary><b>iBox Lab Ltd.</b> — Dhaka, Bangladesh</summary>
+<br />
+
+**Software Engineer** · `Aug 2026 – Present`
+
+</details>
+
+<details>
 <summary><b>TechnoNext Software Ltd.</b> — Dhaka, Bangladesh</summary>
 <br />
 
-**Software Engineer (Frontend)** · `Jul 2025 – Present`
+**Software Engineer (Frontend)** · `Jul 2025 – Jul 2026`
 
-- Own frontend for B2C & B2B platforms (React, Next.js, TypeScript) with a WCAG focus
+- Owned frontend for B2C & B2B platforms (React, Next.js, TypeScript) with a WCAG focus
 - Built AI features — intelligent search, content generation, chat UIs — via Claude, Codex, Gemini, MCP
 - Cut initial page load 30% through code-splitting, lazy loading, asset optimization
 - Authored the shared component library + design system used across product teams
 - Wired GraphQL, REST, and WebSocket layers for real-time, data-heavy interfaces
 - Cut deploy time 40% with GitHub Actions CI/CD
-- Mentor juniors and set coding standards
+- Mentored juniors and set coding standards
 
 **Junior Software Engineer** · `Oct 2022 – Jun 2025`
 
